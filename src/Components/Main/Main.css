@@ -1,0 +1,23 @@
+.person{
+    border-bottom: 2px solid lightgrey;
+    margin-left: 120px;
+    padding: 5px;
+}
+.person img{
+    margin-top: 10px;
+    border-radius: 50%;
+}
+.addBtn{
+    border: 1px solid grey;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    background: rgb(20, 230, 206);
+    padding: 4px 20px;
+    margin-bottom: 10px;
+}
+.addBtn:active{
+    font-size: 13px;
+    outline: none;
+    border: 1px solid rgb(13, 25, 241);
+}
